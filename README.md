@@ -1,1 +1,1 @@
-# Data Aset
+# Mata Kuliah Kecerdasan Buatan
